@@ -1,6 +1,6 @@
 # todo-list-v1
 
-The goal of this project is to mimic a todo-list page using arrays
+The goal of this project is to mimic a todo-list page using array and Node.js backend development
 
 # To instal dependencies
 
