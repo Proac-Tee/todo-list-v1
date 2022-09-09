@@ -1,11 +1,19 @@
-# todo-list-v1
+# Todo-list-v1
+
+## Introduction
 
 The goal of this project is to mimic a todo-list page using an array and Node.js backend development
 
-# To instal dependencies
+## Technologies
 
-use npm install
+- HTML
+- JavaScript
+- EJS
+
+# To install dependencies
+
+- run npm install
 
 # To start
 
-use npm start
+- run npm start
